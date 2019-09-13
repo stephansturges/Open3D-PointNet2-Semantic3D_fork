@@ -1,5 +1,12 @@
 # Semantic3D semantic segmentation with Open3D and PointNet++
 
+Fork of https://github.com/intel-isl/Open3D-PointNet2-Semantic3D
+
+## Tips for installation with pycharm:
+Set up a virtualenv with Conda using Python 3.6.9
+Use package manger to install tensorflow-GPU specific version 1.12
+Then follow readme.md file
+
 ## Intro
 
 Demo project for Semantic3D (semantic-8) segmentation with
